@@ -1,0 +1,2 @@
+# cloud_session5assignment1
+WORKING WITH S3 AND SETTING PERMISSIONS
